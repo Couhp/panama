@@ -1,0 +1,10 @@
+/** Images */
+img { width: 100%; vertical-align: middle; }
+
+/** Background-color */
+body { background-color: #1f2f5b;}
+
+/** Content image */
+.content { padding-top: 10%; }
+
+.wait_content { padding-top: 50%;}
